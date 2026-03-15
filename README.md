@@ -1,4 +1,4 @@
-# Cloud Task Manager - Książka Azure w Praktyce by Zygmunt Radziejowski, 99726
+# Cloud Task Manager - Książka Azure w Praktyce by Tomasz Muskalski, 99682
  
 Projekt natywnej aplikacji chmurowej realizowany w architekturze 3-warstwowej.
  
@@ -12,7 +12,10 @@ Ten projekt został zaplanowany z myślą o usługach PaaS (Platform as a Servic
 | **Data** | SQL Server (Dev) | Azure SQL Database (Serverless) |
  
 ## 🏗 Status Projektu i Dokumentacja
-* [x] **Artefakt 1:** Zaplanowano strukturę folderów i diagram C4 (dostępny w `/docs`).
-* [x] **Artefakt 2:** Konfiguracja środowiska Docker (w trakcie...).
- 
+* [x] **Artefakt 1:** Zaplanowano strukturę folderów i diagram C4 (Diagram C4).
+* [x] **Artefakt 2:** Konfiguracja środowiska Docker (Docker compose).
+* [x] **Artefakt 3:** Działająca warstwa prezentacji (React + Vite w Dockerze).
+Podsumowanie etapu: 
+trzeci etap zostal osiagniety.
+
 > **Informacja:** Ten plik będzie ewoluował. W kolejnych etapach dodamy tutaj sekcje 'Quick Start', opis zmiennych środowiskowych oraz instrukcję wdrożenia (CI/CD).
